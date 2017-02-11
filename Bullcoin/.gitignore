@@ -1,7 +1,7 @@
 src/*.exe
-src/bullcoin
-src/bullcoind
-src/test_bullcoin
+src/litecoin
+src/litecoind
+src/test_litecoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_bullcoin
 *.orig
 *.o
 *.patch
-.bullcoin
+.litecoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-bullcoin-qt
-Bullcoin-Qt.app
+litecoin-qt
+Litecoin-Qt.app
 
 # Unit-tests
 Makefile.test
-bullcoin-qt_test
+litecoin-qt_test
 
 # Resources cpp
 qrc_*.cpp

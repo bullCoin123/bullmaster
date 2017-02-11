@@ -1,9 +1,9 @@
-Building Bullcoin
+Building Litecoin
 
-See doc/readme-qt.rst for instructions on building Bullcoin-Qt,
+See doc/readme-qt.rst for instructions on building Litecoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Bullcoin.
+implementation of Litecoin.
 
-See doc/build-*.txt for instructions on building bullcoind,
+See doc/build-*.txt for instructions on building litecoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Bullcoin.
+implementation of Litecoin.
