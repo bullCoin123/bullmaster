@@ -1,7 +1,7 @@
 Bullcoin integration/staging tree
 ================================
 
-http://www.bullcoin.co
+http://www.bullcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Bullcoin Developers
@@ -10,16 +10,16 @@ What is Bullcoin?
 ----------------
 
 Bullcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 10 minute block targets
+ - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~90 million total coins
+ - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 1 coins per block
+ - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Bullcoin client sofware, see http://www.bullcoin.co.
+the Bullcoin client sofware, see http://www.bullcoin.org.
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bullCoin123/bullmaster/tree/master/Bullcoin) are created
+completely stable. [Tags](https://github.com/bullcoin-project/bullcoin/tags) are created
 regularly to indicate new official, stable release versions of Bullcoin.
 
 Testing
